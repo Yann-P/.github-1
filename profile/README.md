@@ -1,4 +1,4 @@
-![pretalx logo](https://raw.githubusercontent.com/pretalx/pretalx/main/assets/logo.png)
+![pretalx logo](https://raw.githubusercontent.com/pretalx/pretalx/main/src/pretalx/static/common/img/logo.png)
 
 Welcome to the [pretalx](https://pretalx.com/p/about/) repositories! Pretalx is an open-source conference organising
 tool that allows you to manage everything from simple one-day conferences to huge week-long events with dozens of rooms
